@@ -8,6 +8,7 @@ terraform {
 }
 
 # Configure the AWS Provider
+# Note -- DON'T UPLOAD ANY ACCESS_KEY & SECRET_KEY HERE...........................
 provider "aws" {
   access_key = "XXX"
   secret_key = "XXX"
