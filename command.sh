@@ -1,5 +1,6 @@
 
 #!/bin/bash
+#Author Siva1
 sudo su
 yum update -y
 yum install -y httpd
